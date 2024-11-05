@@ -30,7 +30,7 @@ class ListMapActivity : AppCompatActivity() {
                 R.drawable.alunalun,
                 "Ulun danu Beratan Bedugul",
                 "Bali",
-                "Pura Ulun Danu Bratan, Pura Ulun Danu Beratan atau Bratan Pura merupakan sebuah pura dan candi air besar di Bali, Indonesia - candi utama air lainnya menjadi Pura Ulun Danu Batur. Kompleks candi ini terletak di tepi barat laut Danau Bratan di pegunungan dekat Bedugul, Kabupaten Tabanan",
+                "Pura Ulun Danu Bratan, Pura Ulun Danu Beratan atau Bratan Pura merupakan sebuah pura dan candi air besar di Bali",
                 -8.275021434769968,
                 115.16680193649081
             ),
@@ -45,14 +45,14 @@ class ListMapActivity : AppCompatActivity() {
                 R.drawable.labuanbajo,
                 "Labuan Bajo",
                 "NTT",
-                "Labuan Bajo merupakan salah satu kelurahan yang berada di Kecamatan Komodo, Kabupaten Manggarai Barat, Provinsi Nusa Tenggara Timur, Indonesia. Labuan Bajo juga merupakan pusat pemerintahan dari Kecamatan Komodo dan sekaligus merupakan ibu kota Kabupaten Manggarai Barat",
+                "Labuan Bajo merupakan salah satu kelurahan yang berada di Kecamatan Komodo, Kabupaten Manggarai Barat, Provinsi Nusa Tenggara Timur, Indonesia. ",
                 -8.437930350601835, 119.86714452945427
             ),
             ModelWisata(
                 R.drawable.danautoba,
                 "Danau Toba",
                 "Sumatera Utara",
-                "Danau Toba adalah danau alami berukuran besar di Sumatera Utara, Indonesia yang terletak di kaldera gunung supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 508 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 mete",
+                "Danau Toba adalah danau alami berukuran besar di Sumatera Utara, Indonesia yang terletak di kaldera gunung supervulkan.",
                 2.8018526643909647, 98.77124925053705
             )
 
